@@ -1,0 +1,8 @@
+createAccount,user1,password1,1000
+createAccount,user2,password2,2000
+login,user1,password1
+deposit,500
+withdraw,300
+transfer,user2,200
+viewTransactions
+filterTransactions,Deposit
